@@ -7,5 +7,5 @@ I am just starting with computer engineering(undergraduate), still have a long w
 - 🤔 
 - 💬 Ask me about anything.
 - 📫 How to reach me: werendeng@gmail.com
-- 😄 Pronoun: He
+- 😄 Pronoun: He/Him
 - ⚡ Fun fact: eager to learn.
