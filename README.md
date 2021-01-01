@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am just starting with computer engineering(undergraduate), still have a long way ahead.
+I am at the moment studying for my Bachelor's degree in computer engineering
 
-- 🔭 I’m at the moment learning C and C++.
-- 🌱  Also taking an online course on AWS cloud practioner
+- 🔭 started with C, then C++.
+- 🌱  Also taking an online course "Azure cloud Developer" on Udacity.
 - 👯 
 - 🤔 
 - 💬 Ask me about anything.
